@@ -1,4 +1,4 @@
-package com.rishwanth99.MovieAPI;
+package com.rishwanth99.MovieAPI.Movies;
 
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;

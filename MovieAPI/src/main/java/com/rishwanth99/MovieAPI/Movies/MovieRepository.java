@@ -1,4 +1,4 @@
-package com.rishwanth99.MovieAPI;
+package com.rishwanth99.MovieAPI.Movies;
 
 
 import java.util.Optional;
